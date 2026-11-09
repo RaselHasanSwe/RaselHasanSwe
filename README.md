@@ -1,6 +1,6 @@
 # Hi, I'm Rasel Hasan 👋
 
-**Software Engineering Manager · AI-Driven Full-Stack Architect**
+**Technical Lead & Engineering Manager · AI-Driven Full-Stack Architect**
 
 I lead engineering and personally build production systems — AI agent products, e-commerce platforms, and full-stack web apps — with 9+ years of experience spanning Dhaka and Dublin.
 
